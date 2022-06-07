@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qKxXY9jkmG9eNAJgDP6p9WFvHH6KVaSUowPeU7ARKWZ+3c50WvKGuhAv314zqoKpn6+LiqHtbHpg9rYh1NkbGg==",
+  "success": true,
+  "projectFilePath": "C:\\Utvecklingprogram\\Dependency_Injection\\Code\\6_Autofac_deep\\5_Autofac_simple\\5_Autofac_simple\\ExampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\default1\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\default1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\default1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
